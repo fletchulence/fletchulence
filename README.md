@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=fletchulence)](https://github.com/ryo-ma/github-profile-trophy)
+
+- 🔭 i am currently learning about the backend of webpages
+- 💬 looking to collaborate on 
+- pronouns: he/him
+- 
+
 <!--
 **fletchulence/fletchulence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
