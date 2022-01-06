@@ -6,7 +6,7 @@
 - 💬   looking to collaborate on ... literally anything !
 - pronouns: he/him
 
-- I'm currently working on <a href="www.davidfletcher.tech" target="_blank" rel="noreferrer"> My Portfolio Website </a> (still in WIP phases).. click link to view progress
+- I'm currently working on <a href="https://www.davidfletcher.tech" target="_blank" rel="noreferrer"> My Portfolio Website </a> (still in WIP phases).. click link to view progress
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
