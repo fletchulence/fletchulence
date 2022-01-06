@@ -6,11 +6,11 @@
 - 💬   looking to collaborate on ... literally anything !
 - pronouns: he/him
 
-- I'm currently working on <a href="https://www.davidfletcher.tech" target="blank" rel="noreferrer">My Portfolio Website</a> (still in WIP phases) ... click link to view progress
+- I'm currently working on <a href="https://www.davidfletcher.tech" target="_blank" rel="noreferrer">My Portfolio Website</a> (still in WIP phases) ... click link to view progress
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/david-a-fletcher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/david-a-fletcher" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/david-a-fletcher" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/david-a-fletcher" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
