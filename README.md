@@ -1,8 +1,6 @@
 ### Hi There!
 
-<iframe src="https://giphy.com/embed/VbAFrrDVGAvZu" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/funny-capacity-VbAFrrDVGAvZu">via GIPHY</a></p>
-
-![giphy](https://giphy.com/embed/VbAFrrDVGAvZu)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fletchulence)](https://github.com/ryo-ma/github-profile-trophy)
 
