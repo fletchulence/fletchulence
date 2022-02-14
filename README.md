@@ -1,7 +1,10 @@
 ### Hi There!
-[![trophy](https://github-profile-trophy.vercel.app/?username=fletchulence)](https://github.com/ryo-ma/github-profile-trophy)
 
-<iframe src="https://giphy.com/embed/l0HUfIYNfkhtjLWQE" width="480" height="327" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/football-news-cooking-l0HUfIYNfkhtjLWQE">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/VbAFrrDVGAvZu" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/funny-capacity-VbAFrrDVGAvZu">via GIPHY</a></p>
+
+![giphy](https://giphy.com/gifs/funny-capacity-VbAFrrDVGAvZu)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=fletchulence)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭   i am currently learning about the backend of webpages
 - 💬   looking to collaborate on ... literally anything !
