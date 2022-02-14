@@ -1,7 +1,7 @@
-### Hi there 👋
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=fletchulence)](https://github.com/ryo-ma/github-profile-trophy)
 
-<iframe src="https://giphy.com/embed/l0MYII7vx3jZTG3Oo" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-plants-desk-l0MYII7vx3jZTG3Oo">via GIPHY</a></p>
+
 
 - 🔭   i am currently learning about the backend of webpages
 - 💬   looking to collaborate on ... literally anything !
