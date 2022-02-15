@@ -4,8 +4,6 @@
 ![IMG Computer pixelated](https://user-images.githubusercontent.com/87198282/154156632-7de427a8-cc7e-456a-898a-074dabdee34e.gif)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fletchulence)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## Bio:
 🎓  I have had a fortunate education: Lehigh University, BS Mechanical Engineering <br>
 🌞  I have grown up in a fortunate area: Los Angeles, CA <br>
@@ -73,6 +71,9 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=fletchulence&" alt="fletchulence" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fletchulence&show_icons=true&locale=en&layout=compact" alt="fletchulence" /></p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=fletchulence)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!-- ### Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fletchulence)](https://github.com/anuraghazra/github-readme-stats)
