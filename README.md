@@ -9,10 +9,10 @@
 ## Bio:
 🎓  I have had a fortunate education: Lehigh University, BS Mechanical Engineering <br>
 🌞  I have grown up in a fortunate area: Los Angeles, CA <br>
-📚  I have the good fortune to learn Software Development at BloomTech (FKA Lambda School) 
-💬  I am looking to collaborate on ... anything having to do with Frontend/Backend Development!
-🙋🏼‍♂️  Pronouns: He/Him
-🥳  I am constantly learning more about webpages -- while looking at more websites
+📚  I have the good fortune to learn Software Development at BloomTech (FKA Lambda School) <br>
+💬  I am looking to collaborate on ... anything having to do with Frontend/Backend Development! <br>
+🙋🏼‍♂️  Pronouns: He/Him <br>
+🥳  I am constantly learning more about webpages -- while looking at more websites <br>
 🧀  I am currently working on <a href="https://www.davidfletcher.tech" target="_blank" rel="noreferrer">My Portfolio Website</a> (still in WIP phases) ... click link to view progress
 
 <h3 align="left">Connect with me:</h3>
