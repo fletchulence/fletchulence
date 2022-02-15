@@ -7,8 +7,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=fletchulence)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Bio:
-🎓  I have had a fortunate education: Lehigh University, BS Mechanical Engineering 
-🌞  I have grown up in a fortunate area: Los Angeles, CA 
+🎓  I have had a fortunate education: Lehigh University, BS Mechanical Engineering <br>
+🌞  I have grown up in a fortunate area: Los Angeles, CA <br>
 📚  I have the good fortune to learn Software Development at BloomTech (FKA Lambda School) 
 💬  I am looking to collaborate on ... anything having to do with Frontend/Backend Development!
 🙋🏼‍♂️  Pronouns: He/Him
