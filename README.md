@@ -1,5 +1,5 @@
-### Hi There! My Name is David Fletcher
 
+<h1 align='center'> Hi There! ★★ My Name is David Fletcher </h2>
 
 ![IMG Computer pixelated](https://user-images.githubusercontent.com/87198282/154156632-7de427a8-cc7e-456a-898a-074dabdee34e.gif)
 
