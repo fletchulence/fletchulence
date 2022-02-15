@@ -1,14 +1,19 @@
-### Hi There!
+### Hi There! My Name is David Fletcher
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://giphy.com/gifs/glitch-ocean-ryan-seslow-l3977c5EIanrpRouk)
+
+<div style="width:100%;height:0;padding-bottom:101%;position:relative;"><iframe src="https://giphy.com/embed/l3977c5EIanrpRouk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/glitch-ocean-ryan-seslow-l3977c5EIanrpRouk">via GIPHY</a></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fletchulence)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭   i am currently learning about the backend of webpages
-- 💬   looking to collaborate on ... literally anything !
-- pronouns: he/him
-
-- I'm currently working on <a href="https://www.davidfletcher.tech" target="_blank" rel="noreferrer">My Portfolio Website</a> (still in WIP phases) ... click link to view progress
+## Bio:
+🎓  I have had a fortunate education: Lehigh University, BS Mechanical Engineering 
+🌞  I have grown up in a fortunate area: Los Angeles, CA 
+📚  I have the good fortune to learn Software Development at BloomTech (FKA Lambda School) 
+💬  I am looking to collaborate on ... anything having to do with Frontend/Backend Development!
+🙋🏼‍♂️  Pronouns: He/Him
+🥳  I am constantly learning more about webpages -- while looking at more websites
+🧀  I am currently working on <a href="https://www.davidfletcher.tech" target="_blank" rel="noreferrer">My Portfolio Website</a> (still in WIP phases) ... click link to view progress
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
