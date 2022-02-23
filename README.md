@@ -11,7 +11,12 @@
 💬  I am looking to collaborate on ... anything having to do with Frontend/Backend Development! <br>
 🙋🏼‍♂️  Pronouns: He/Him <br>
 🥳  I am constantly learning more about webpages -- while looking at more websites <br>
-🧀  I am currently working on <a href="https://www.davidfletcher.tech" target="_blank" rel="noreferrer">My Portfolio Website</a> (still in WIP phases) ... click link to view progress
+🧀  I am currently working on <a href="https://www.davidfletcher.tech" target="_blank" rel="noreferrer">My Portfolio Website</a> (WIP) ... click link to view progress
+
+## Projects:
+🍇 African Market Place   |   <a href="https://www.davidfletcher.tech" target="_blank" rel="noreferrer">WEBSITE</a>   |    <a href="https://github.com/Build-Week-ft-african-marketplace-1/front-end" target="_blank" rel="noreferrer">GITHUB</a>    |    
+💪  Anywhere Fitness   |   <a href="https://front-end-chi-livid.vercel.app/" target="_blank" rel="noreferrer">WEBSITE</a>   |    <a href="https://github.com/Build-Week-Anywhere-Fitness-6-2021/back-end" target="_blank" rel="noreferrer">GITHUB</a>    |  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
