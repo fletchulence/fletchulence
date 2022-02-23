@@ -5,6 +5,8 @@
 
 
 ## Bio:
+🤗  FullStack Web Developer always ready to accept a challenge. My passions are music, skiing and the great outdoors. 
+
 🎓  I have had a fortunate education: Lehigh University, BS Mechanical Engineering <br>
 🌞  I have grown up in a fortunate area: Los Angeles, CA <br>
 📚  I have the good fortune to learn Software Development at BloomTech (FKA Lambda School) <br>
