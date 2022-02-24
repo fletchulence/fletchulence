@@ -6,7 +6,6 @@
 
 ## Bio:
 🤗  FullStack Web Developer always ready to accept a challenge. My passions are music, skiing and the great outdoors. 
-
 🎓  I have had a fortunate education: Lehigh University, BS Mechanical Engineering <br>
 🌞  I have grown up in a fortunate area: Los Angeles, CA <br>
 📚  I have the good fortune to learn Software Development at BloomTech (FKA Lambda School) <br>
@@ -14,6 +13,7 @@
 🙋🏼‍♂️  Pronouns: He/Him <br>
 🥳  I am constantly learning more about webpages -- while looking at more websites <br>
 🧀  I am currently working on <a href="https://www.davidfletcher.tech" target="_blank" rel="noreferrer">My Portfolio Website</a> (WIP) ... click link to view progress
+
 
 ## Projects:
 🍇 African Market Place   |   <a href="https://www.davidfletcher.tech" target="_blank" rel="noreferrer">WEBSITE</a>   |    <a href="https://github.com/Build-Week-ft-african-marketplace-1/front-end" target="_blank" rel="noreferrer">GITHUB</a>    |    
@@ -69,7 +69,9 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
   <!-- redux -->
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
+   <!-- sqlite -->
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+   <!-- vue -->
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
 </p>
 
