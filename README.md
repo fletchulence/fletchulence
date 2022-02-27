@@ -13,7 +13,7 @@
 🙋🏼‍♂️  Pronouns: He/Him <br>
 🥳  I am constantly learning more about webpages -- while looking at more websites <br>
 🧀  I am currently working on <a href="https://www.davidfletcher.tech" target="_blank" rel="noreferrer">My Portfolio Website</a> (WIP) ... click link to view progress
-
+📝  If you would like to view my Resume, please reach out to me on LinkedIn (below)
 
 ## Projects:
 🍇 African Market Place   |   <a href="https://www.davidfletcher.tech" target="_blank" rel="noreferrer">WEBSITE</a>   |    <a href="https://github.com/Build-Week-ft-african-marketplace-1/front-end" target="_blank" rel="noreferrer">GITHUB</a>    |    
