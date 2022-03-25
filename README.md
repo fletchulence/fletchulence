@@ -12,7 +12,7 @@
 💬  I am looking to collaborate on projects that serve to give back to the community <br>
 🙋🏼‍♂️  Pronouns: He/Him <br>
 <!-- 🥳  I am constantly learning more about webpages -- while looking at more websites <br> -->
-🧀  I am currently working on <a href="https://www.davidfletcher.tech" target="_blank" rel="noreferrer">My Portfolio Website</a> (WIP) ... click link to view progress <br>
+🧀  I am currently working on <a href="https://www.davidfletcher.tech" target="_blank" rel="noreferrer">My Portfolio Website</a> (WIP) ... click link to view progress ... no judgments please <br>
 📝  If you would like to view my Resume, please reach out to me on LinkedIn (below)
 
 ## Projects:
