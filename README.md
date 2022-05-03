@@ -11,7 +11,7 @@
 🌞  I have grown up in a fortunate area: Los Angeles, CA <br>
 📚  I have the good fortune to learn Full Stack Development at BloomTech (FKA Lambda School) <br>
 💬  I am looking to collaborate on projects that serve to give back to the community <br>
-🧀  I am currently working on <a href="https://www.davidfletcher.tech" target="_blank" rel="noreferrer">My Portfolio Website</a> (WIP) ... click link to view progress ... no judgments please <br>
+🧀  I am currently working on <a href="https://www.davidfletcher.tech" target="_blank" rel="noreferrer">My Portfolio Website</a> (WIP) ... click to view progress ... no judgments please! <br>
 📝  If you would like to view my Resume, please reach out to me on LinkedIn (below)
 <!-- 🥳  I am constantly learning more about webpages -- while looking at more websites <br> -->
 
