@@ -26,6 +26,7 @@
 <a href="https://www.linkedin.com/in/david-a-fletcher" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/david-a-fletcher" height="30" width="40" /></a>
 </p>
 
+
 ## Languages and Tools:
 <p align="left"> 
    <!-- arduino -->
@@ -73,8 +74,15 @@
    <!-- sqlite -->
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
    <!-- vue -->
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
-</p>
+<!--   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
+</p> -->
+   
+## Stats:
+   <details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fletchulence&show_icons=true&locale=en" alt="fletchulence" /></p>
 
