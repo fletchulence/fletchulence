@@ -78,11 +78,9 @@
 </p> -->
    
 ## Stats:
-   <details>
-<summary>How do I dropdown?</summary>
+<details>
+<summary> Github Stats </summary>
 <br>
-This is how you dropdown.
-</details>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=fletchulence&show_icons=true&locale=en" alt="fletchulence" /></p>
 
@@ -91,7 +89,7 @@ This is how you dropdown.
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fletchulence&show_icons=true&locale=en&layout=compact" alt="fletchulence" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fletchulence)](https://github.com/ryo-ma/github-profile-trophy)
-
+</details>
 
 <!-- ### Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fletchulence)](https://github.com/anuraghazra/github-readme-stats)
