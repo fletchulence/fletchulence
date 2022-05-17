@@ -8,7 +8,7 @@
 🙋🏼‍♂️  Pronouns: He/Him <br>
 🤗  Full-Stack Web Developer always ready to accept a challenge. My passions are music 🎧, skiing ⛷ and the great outdoors 🥾. <br>
 📚  Education: BloomTech (FKA Lambda School), Full Stack Web Development <br>
-  +  🎓  Bachelors Degree from Lehigh University in Mechanical Engineering <br>
+🎓  Bachelors Degree from Lehigh University in Mechanical Engineering <br>
 🌞  Born: Los Angeles, CA <br>
 🏠  Live: Queens, NY <br> 
 💬  I am looking to collaborate on projects that serve to give back to the community <br>
