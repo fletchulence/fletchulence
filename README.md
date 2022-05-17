@@ -10,11 +10,11 @@
 🙋🏼‍♂️  Pronouns: He/Him <br>
 🌞  Born: Los Angeles, CA <br>
 🏠  Live: Queens, NY <br> 
-🤗  Passions: Music 🎧, Skiing ⛷  and the great outdoors 🥾. <br>
+🤗  Passions: Music 🎧    Skiing ⛷    Hiking 🥾   Camping 🏕. <br>
 💬  I am looking to collaborate on projects that serve to give back to the community <br>
 🌍  I believe in focusing on 🌲 _sustainable_ 🌲 solutions help our Earth <br>
 🧀  I am currently working on <a href="https://www.davidfletcher.tech" target="_blank" rel="noreferrer">My Portfolio</a> website (WIP) ... click to view progress ... no judgments please! <br>
-📝  If you would like to view my Resume, please reach out to me on LinkedIn (below)
+📝  If you would like to view my Resume, please reach out to me on <a href="https://www.linkedin.com/in/david-a-fletcher" target="_blank" rel="noreferrer">LinkedIn</a>
 <!-- 🥳  I am constantly learning more about webpages -- while looking at more websites <br> -->
 
 ## Projects:
