@@ -6,7 +6,7 @@
 
 ## Bio:
 🙋🏼‍♂️  Pronouns: He/Him <br>
-🤗  FullStack Web Developer always ready to accept a challenge. My passions are music, skiing and the great outdoors. <br>
+🤗  Full-Stack Web Developer always ready to accept a challenge. My passions are music 🎧, skiing ⛷ and the great outdoors 🥾. <br>
 🎓  I have had a fortunate education: Lehigh University, BS Mechanical Engineering <br>
 🌞  I have grown up in a fortunate area: Los Angeles, CA <br>
 📚  I have the good fortune to learn Full Stack Development at BloomTech (FKA Lambda School) <br>
