@@ -7,11 +7,13 @@
 ## Bio:
 🙋🏼‍♂️  Pronouns: He/Him <br>
 🤗  Full-Stack Web Developer always ready to accept a challenge. My passions are music 🎧, skiing ⛷ and the great outdoors 🥾. <br>
-🎓  I have had a fortunate education: Lehigh University, BS Mechanical Engineering <br>
-🌞  I have grown up in a fortunate area: Los Angeles, CA <br>
-📚  I have the good fortune to learn Full Stack Development at BloomTech (FKA Lambda School) <br>
+📚  Education: BloomTech (FKA Lambda School), Full Stack Web Development <br>
+  +  🎓  Bachelors Degree from Lehigh University in Mechanical Engineering <br>
+🌞  Born: Los Angeles, CA <br>
+🏠  Live: Queens, NY <br> 
 💬  I am looking to collaborate on projects that serve to give back to the community <br>
-🧀  I am currently working on <a href="https://www.davidfletcher.tech" target="_blank" rel="noreferrer">My Portfolio Website</a> (WIP) ... click to view progress ... no judgments please! <br>
+🌍  I believe in focusing on 🌲 _sustainable_ 🌲 solutions help our Earth <br>
+🧀  I am currently working on <a href="https://www.davidfletcher.tech" target="_blank" rel="noreferrer">My Portfolio</a> website (WIP) ... click to view progress ... no judgments please! <br>
 📝  If you would like to view my Resume, please reach out to me on LinkedIn (below)
 <!-- 🥳  I am constantly learning more about webpages -- while looking at more websites <br> -->
 
