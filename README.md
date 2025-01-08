@@ -20,7 +20,7 @@
 
 ## Projects:
 🍎 My Portfolio   |   <a href="https://fletcher-portfolio.vercel.app/" target="_blank" rel="noreferrer">WEBSITE</a>   |    <a href="blank" target="_blank" rel="noreferrer">GITHUB</a>    |    
-🍇 African Market Place   |   <a href="fletcher-portfolio.vercel.app" target="_blank" rel="noreferrer">WEBSITE</a>   |    <a href="https://github.com/Build-Week-ft-african-marketplace-1/front-end" target="_blank" rel="noreferrer">GITHUB</a>    |    
+🍇 African Market Place   |   <a href="https://www.davidfletcher.tech" target="_blank" rel="noreferrer">WEBSITE</a>   |    <a href="https://github.com/Build-Week-ft-african-marketplace-1/front-end" target="_blank" rel="noreferrer">GITHUB</a>    |    
 💪  Anywhere Fitness   |   <a href="https://front-end-chi-livid.vercel.app/" target="_blank" rel="noreferrer">WEBSITE</a>   |    <a href="https://github.com/Build-Week-Anywhere-Fitness-6-2021/back-end" target="_blank" rel="noreferrer">GITHUB</a>    |  
 🧺  Potluck Planner   |   <a href="https://potluck1-front-end.vercel.app/" target="_blank" rel="noreferrer">WEBSITE</a>   |    <a href="https://github.com/Potluck-Planner-A" target="_blank" rel="noreferrer">GITHUB</a>    |  
 
