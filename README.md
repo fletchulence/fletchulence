@@ -11,7 +11,7 @@
 🤗  Passions: Music 🎧    Skiing ⛷    Hiking 🥾   Camping 🏕 <br>
 💬  I am looking to collaborate on projects that serve to give back to the community <br>
 🌍  I believe in focusing on 🌲 _sustainable_ 🌲 solutions help our Earth <br>
-🧀  I am currently working on <a href="https://www.davidfletcher.tech" target="_blank" rel="noreferrer">My Portfolio</a> website (WIP) ... click to view progress ... no judgments please! <br>
+🧀  I am currently working on <a href="fletcher-portfolio.vercel.app" target="_blank" rel="noreferrer">My Portfolio</a> website (WIP) ... click to view progress ... no judgments please! <br>
 📝  If you would like to view my Resume, please reach out to me on <a href="https://www.linkedin.com/in/david-a-fletcher" target="_blank" rel="noreferrer">LinkedIn</a>
 #### Education:
 📚  Coding: BloomTech (FKA Lambda School), Full Stack Web Development <br>
@@ -19,7 +19,7 @@
 <!-- 🥳  I am constantly learning more about webpages -- while looking at more websites <br> -->
 
 ## Projects:
-🍇 African Market Place   |   <a href="https://www.davidfletcher.tech" target="_blank" rel="noreferrer">WEBSITE</a>   |    <a href="https://github.com/Build-Week-ft-african-marketplace-1/front-end" target="_blank" rel="noreferrer">GITHUB</a>    |    
+🍇 African Market Place   |   <a href="fletcher-portfolio.vercel.app" target="_blank" rel="noreferrer">WEBSITE</a>   |    <a href="https://github.com/Build-Week-ft-african-marketplace-1/front-end" target="_blank" rel="noreferrer">GITHUB</a>    |    
 💪  Anywhere Fitness   |   <a href="https://front-end-chi-livid.vercel.app/" target="_blank" rel="noreferrer">WEBSITE</a>   |    <a href="https://github.com/Build-Week-Anywhere-Fitness-6-2021/back-end" target="_blank" rel="noreferrer">GITHUB</a>    |  
 🧺  Potluck Planner   |   <a href="https://potluck1-front-end.vercel.app/" target="_blank" rel="noreferrer">WEBSITE</a>   |    <a href="https://github.com/Potluck-Planner-A" target="_blank" rel="noreferrer">GITHUB</a>    |  
 
